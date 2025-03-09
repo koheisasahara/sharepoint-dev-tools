@@ -1,4 +1,4 @@
-# sharepoint-dev-tool
+# sharepoint-dev-tools
 We have prepared scripts related to Microsoft SharePoint. 
 The following functions are available
 - Site Creation
